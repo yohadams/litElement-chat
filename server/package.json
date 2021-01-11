@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server part",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "YohAdams",
+  "license": "Beerware",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ws": "^7.3.1"
+  }
+}
